@@ -1,0 +1,10 @@
+# robots.txt для Frumzi Casino (Greece)
+User-agent: *
+
+Disallow: /admin/
+Disallow: /assets/private/
+
+Allow: /
+
+# Указываем карту сайта
+Sitemap: https://fruuumzi.gr/sitemap.xml
